@@ -7,5 +7,7 @@ Statistics and Data Analysis Resources in Maple: http://www.maplesoft.com/produc
 
 Blog Posts on Exploring Data:
 Visualizing Multiple Quandl Data Sets using BubblePlots: http://www.mapleprimes.com/maplesoftblog/203711-Visualizing-Multiple-Quandl-Data-Sets 
-An Interactive Application for Exploring Country Data: http://www.mapleprimes.com/maplesoftblog/203857-An-Interactive-Application-For-Exploring 
+
+An Interactive Application for Exploring Country Data: http://www.mapleprimes.com/maplesoftblog/203857-An-Interactive-Application-For-Exploring
+
 Custom Application Development: http://www.mapleprimes.com/maplesoftblog/204725-Custom-Application-Development 
